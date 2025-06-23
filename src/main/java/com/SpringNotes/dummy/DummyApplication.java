@@ -8,7 +8,7 @@ public class DummyApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Starting Dummy Application...");
-		//SpringApplication.run(DummyApplication.class, args);
+		SpringApplication.run(DummyApplication.class, args);
 	}
 
 }
